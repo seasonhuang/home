@@ -1,0 +1,11 @@
+
+alias vi="vim"
+alias grep="grep --color"
+alias fgrep="fgrep --color"
+
+alias up="svn up"
+alias st="svn st"
+alias diff="svn diff"
+alias log="svn log"
+alias info="svn info"
+alias f="find . -name"
